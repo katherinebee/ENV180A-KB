@@ -1,0 +1,59 @@
+Geo_FIPS,Geo_NAME,Geo_QNAME,Geo_STATE,Geo_COUNTY,dailypm,drinkingwater,housing,drivealone,longcommute,percentlongcommute
+6001,Alameda County,"Alameda County, California",6,1,8.46,,25.09458808,64.42949289,451989,41.5
+6003,Alpine County,"Alpine County, California",6,3,10.32,,14.28571429,55.78512397,270,53.8
+6005,Amador County,"Amador County, California",6,5,9.4,,21.81243414,77.64765355,9216,40.1
+6007,Butte County,"Butte County, California",6,7,8.93,,23.72024684,74.137587,63163,21.5
+6009,Calaveras County,"Calaveras County, California",6,9,9.54,,21.02577873,77.31011127,12784,52.3
+6011,Colusa County,"Colusa County, California",6,11,7.55,,18.88162673,75.86206897,6424,27.9
+6013,Contra Costa County,"Contra Costa County, California",6,13,8.29,,23.38903107,69.16808527,335616,47
+6015,Del Norte County,"Del Norte County, California",6,15,7.96,,24.36888202,76.10576337,6246,9.1
+6017,El Dorado County,"El Dorado County, California",6,17,9.5,,20.94480065,76.59237106,59415,39.4
+6019,Fresno County,"Fresno County, California",6,19,9.59,,29.17827783,76.99954915,271552,22
+6021,Glenn County,"Glenn County, California",6,21,7.98,,21.12159329,75.11379379,7591,27
+6023,Humboldt County,"Humboldt County, California",6,23,8.19,,26.01069318,73.47213482,42029,15.5
+6025,Imperial County,"Imperial County, California",6,25,9.43,,28.04089297,79.65285674,44835,21.4
+6027,Inyo County,"Inyo County, California",6,27,11.3,,19.8482933,72.44734573,5882,11
+6029,Kern County,"Kern County, California",6,29,9.21,,26.74776839,76.77861698,240314,24.8
+6031,Kings County,"Kings County, California",6,31,8.85,,24.457255,76.13549601,40884,23.8
+6033,Lake County,"Lake County, California",6,33,7.21,,28.40452021,74.17345696,15839,35.9
+6035,Lassen County,"Lassen County, California",6,35,11.12,,19.95061728,75.93542053,6961,16.5
+6037,Los Angeles County,"Los Angeles County, California",6,37,8.1,,34.75925195,72.55528941,3217518,45.2
+6039,Madera County,"Madera County, California",6,39,9.91,,28.07559729,75.89871394,32282,34.8
+6041,Marin County,"Marin County, California",6,41,7.5,,24.36257877,66.07205288,81264,40.7
+6043,Mariposa County,"Mariposa County, California",6,43,10.06,,18.40110269,63.97376866,4585,40.7
+6045,Mendocino County,"Mendocino County, California",6,45,7.27,,27.95793164,73.42424327,26222,20.5
+6047,Merced County,"Merced County, California",6,47,9.05,,27.11591382,77.95858308,72054,28.4
+6049,Modoc County,"Modoc County, California",6,49,9.98,,19.20614597,66.29484474,2199,14.2
+6051,Mono County,"Mono County, California",6,51,11.02,,26.21167161,53.07404437,3971,21.8
+6053,Monterey County,"Monterey County, California",6,53,7.22,,30.72127872,70.93092856,125613,27.9
+6055,Napa County,"Napa County, California",6,55,7.55,,24.92379598,76.27706809,50336,31.9
+6057,Nevada County,"Nevada County, California",6,57,9.58,,23.72372372,76.03267154,30905,27.4
+6059,Orange County,"Orange County, California",6,59,7.63,,28.69383448,78.13982159,1132003,38.1
+6061,Placer County,"Placer County, California",6,61,9.3,,20.20110036,78.71990553,123987,37.9
+6063,Plumas County,"Plumas County, California",6,63,10.38,,20.47200878,73.98819562,5265,30.6
+6065,Riverside County,"Riverside County, California",6,65,9.4,,28.3903816,77.25311867,674952,45.2
+6067,Sacramento County,"Sacramento County, California",6,67,8.68,,23.86559869,75.6446287,455420,34.3
+6069,San Benito County,"San Benito County, California",6,69,7.93,,29.98812352,77.10966581,18851,43.3
+6071,San Bernardino County,"San Bernardino County, California",6,71,10.42,,28.78689345,76.55819781,612265,39.8
+6073,San Diego County,"San Diego County, California",6,73,7.87,,26.62722725,76.11629726,1114217,32
+6075,San Francisco County,"San Francisco County, California",6,75,7.98,,27.31193522,36.16418858,165151,46.3
+6077,San Joaquin County,"San Joaquin County, California",6,77,8.89,,28.2287132,76.37310677,203516,33.4
+6079,San Luis Obispo County,"San Luis Obispo County, California",6,79,7.46,,24.61409891,74.51401213,90270,23.6
+6081,San Mateo County,"San Mateo County, California",6,81,8.01,,24.95823134,70.17209393,260229,35.1
+6083,Santa Barbara County,"Santa Barbara County, California",6,83,7.23,,29.05943573,67.13492088,130756,17.9
+6085,Santa Clara County,"Santa Clara County, California",6,85,8.27,,24.15647153,76.45004912,662984,34.7
+6087,Santa Cruz County,"Santa Cruz County, California",6,87,7.68,,27.04961955,70.32531579,88913,37.2
+6089,Shasta County,"Shasta County, California",6,89,9.59,,22.43757259,81.69320811,54018,14.4
+6091,Sierra County,"Sierra County, California",6,91,10.22,,16.41791045,77.27272727,918,48.3
+6093,Siskiyou County,"Siskiyou County, California",6,93,8.72,,24.58514169,71.817255,11271,20.4
+6095,Solano County,"Solano County, California",6,95,8.1,,23.38287181,76.15503571,139366,38.8
+6097,Sonoma County,"Sonoma County, California",6,97,7.18,,25.03794038,76.11470667,174410,31.1
+6099,Stanislaus County,"Stanislaus County, California",6,99,9.15,,27.60843374,79.99979937,159494,30.7
+6101,Sutter County,"Sutter County, California",6,101,8.09,,24.86170381,75.81722609,27693,31.3
+6103,Tehama County,"Tehama County, California",6,103,8.94,,20.97664544,75.21201732,16673,31.7
+6105,Trinity County,"Trinity County, California",6,105,8.71,,17.8141136,67.76403005,3067,18.7
+6107,Tulare County,"Tulare County, California",6,107,10.31,,28.71264279,75.38358342,124744,24.9
+6109,Tuolumne County,"Tuolumne County, California",6,109,10.12,,21.2847772,77.6440651,14646,23.9
+6111,Ventura County,"Ventura County, California",6,111,7.67,,25.28858808,76.53672795,295630,33.1
+6113,Yolo County,"Yolo County, California",6,113,7.94,,24.59694678,67.40196355,59797,27.8
+6115,Yuba County,"Yuba County, California",6,115,8.7,,24.36295836,76.22372137,19434,40.2
